@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-indent: 10px;
+  border-bottom: 2px solid #c0b9b9;
+}
+
+body{
+  background-color: #9c66ff;
+}
+
+h1{
+  font-style: 
+}
+
+img{
+  
+}
+
